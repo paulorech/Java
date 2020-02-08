@@ -23,6 +23,7 @@ public class CalculatorDemo {
 	     else
 	        System.out.println("Sorry - the answer is " + answer);
 		}
+		//fun
 	 
 			
 			
